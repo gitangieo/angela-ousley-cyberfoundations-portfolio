@@ -1,3 +1,7 @@
+# Hello 🙂
+
+My name is Angela Ousley and I currently work as a Software Validation Analyst. My main goal is to transition into cybersecurity through a CMMC apprenticeship or an entry-level IAM role. I enrolled in CyberFoundations because I need structure in my career journey and want to make sure I fully understand the basics of cybersecurity. What really intrigued me about this course is the opportunity to practice what I learn in class through the labs and create a portfolio to showcase my work. With the new knowledge and skills gained through this course, I will pass my CompTIA Security+ exam in October, continue to get professional training, and set up a home lab to maintain my progress. 
+
 # CyberVisionaries Institute (CVI) — Cyber Foundations Student Portfolio
 
 **New here? Read [START-HERE.md](START-HERE.md) first — it walks you through your very first commit, step by step.**
