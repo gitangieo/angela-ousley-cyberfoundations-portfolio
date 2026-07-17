@@ -209,7 +209,11 @@ Clicking on the Week 1 lesson from the dashboard and connecting my GitHub to the
 ```
 Maybe having screenshots of what we're supposed to see, like for the "Dashboard sections observed" and "Lab card content". It's kind of hard to know if we're seeing the correct setup/format with just text. Could be I'm just not familiar with the terms as well.
 
-The 'file saved as demo-lab-01-portal-oreintation.md' is confusing too because I'm assuming this is supposed to be done in GitHub, but there's nothing in the steps that clearly states that. The submission path listed in the portal is confusing as well because it reads as "labs/week-01/demo-lab-01-portal-orientation.md", but in GitHub the repo starts as ".../week-01/labs/" so is it 'labs > week-01' or 'week-01 > labs'?
+The 'file saved as demo-lab-01-portal-oreintation.md' is confusing too because I'm assuming this is supposed to be done in GitHub, but there's nothing in the steps that clearly states that. 
+
+The submission path listed in the portal is confusing as well because it reads as "labs/week-01/demo-lab-01-portal-orientation.md", but in GitHub the repo starts as ".../week-01/labs/" so is it 'labs > week-01' or 'week-01 > labs'?
+
+Once I clicked 'Submit to GitHub' a new folder was created under "/labs/week-01/". Was this supposed to happen? Or was this submission supposed to go into the folder already created in the template which is "/week-01/labs/"?
 ```
 
 ---
