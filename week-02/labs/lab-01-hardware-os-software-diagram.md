@@ -1,7 +1,9 @@
-# Week 2 Lab — Cybersecurity Landscape & Digital Infrastructure Overview
+# Week 2 Lab 01 — Cybersecurity Landscape & Digital Infrastructure Overview
 
-**Student Name:**  
-**Date Completed:**  
+**Student Name:** Angela Ousley
+
+**Date Completed:**
+
 **Module:** 1 — Digital Infrastructure & CLI | **Week:** 2  
 **Submission Path:** `week-02/labs/lab-01-hardware-os-software-diagram.md`
 
@@ -22,7 +24,7 @@ In this lab, you build a working mental model of the system you'll be securing t
 | Environment | Browser-based Lab Portal (Module 1 orientation) |
 | Required Materials | CyberFoundations City map; a diagram tool of your choice (hand-drawn and photographed, or any digital tool) |
 
-**Prerequisite:** Portfolio repo created from the CyberFoundations student template in Week 1. This file is already in your repo at `week-02/labs/lab-01-hardware-os-software-diagram.md`, ready to fill in.
+**Prerequisite:** Portfolio repo created from the CyberFoundations student template in Week 1. Fill out this worksheet here in the Lab Portal, then hit Submit to commit it directly to your repo at `week-02/labs/lab-01-hardware-os-software-diagram.md`.
 
 ---
 
@@ -32,7 +34,7 @@ The CyberFoundations City map is your visual guide to the next 11 weeks. Each di
 
 ### Step 1 — Open the Lab Portal Orientation Module
 
-Log into the Lab Portal with your Microsoft account. From your Student Dashboard, open the **Module 1 orientation** module.
+From your Student Dashboard, open the **Module 1 orientation** module.
 
 ### Step 2 — Complete the Orientation Walkthrough
 
@@ -42,14 +44,16 @@ Work through the orientation content. It covers the same hardware/OS/software ma
 
 Open the CyberFoundations City map (introduced in Week 1, Lesson 6). Identify which district corresponds to Module 1 — Digital Infrastructure & CLI.
 
-**District name:**
+**District name:** Foundry District
+
 ```
-(enter the district name)
+Foundry District
 ```
 
 **Why this district fits this week's topics (1–2 sentences):**
+
 ```
-(your explanation)
+The Foundry district fits this weeks topics because this district is based on cybersecurity foundations. Learning about the cybersecurity landscape, what's inside a computer, and operating systems is foundational knowledge that allows us to understand the digital infrastructure we are protecting.
 ```
 
 ---
@@ -60,45 +64,54 @@ A computer is a stack of layers: physical hardware at the bottom, an operating s
 
 ### Step 1 — Identify the Layers
 
-Before drawing anything, list the three layers you'll diagram and one example of what lives at each layer.
+Before drawing anything, name one example of what lives at each layer.
 
-**Hardware layer — one example component:**
-```
-(e.g., CPU, RAM, storage — your choice)
-```
+**Hardware layer — one example component (e.g., CPU, RAM, or storage):** RAM
 
-**Operating system layer — name an OS:**
 ```
-(e.g., Windows, Linux, macOS)
+RAM the computer's memory. It's short-term and volatile. The memory is erased once the computer is shutdown.
 ```
 
-**Software layer — one example application:**
+**Operating system layer — name an OS (e.g., Windows, Linux, or macOS):** Windows
+
 ```
-(e.g., a web browser, a word processor)
+Windows is an operating system created by Microsoft that is proprietary (the source code is confidential).
+```
+
+**Software layer — one example application (e.g., a web browser or word processor):** Microsoft Teams
+
+```
+Microsoft Teams is a software used on Windows were instant messages can be sent to users within the same company or group.
 ```
 
 ### Step 2 — Sketch Your Diagram
 
-Sketch a simple diagram (hand-drawn and photographed, or built in any digital tool) showing how the hardware, OS, and software layers stack and interact. Arrows or labels showing "what talks to what" matter more than visual polish.
+Sketch a simple diagram (hand-drawn and photographed, or built in any digital tool) showing how the hardware, OS, and software layers stack and interact. Arrows or labels showing "what talks to what" matter more than visual polish. If you'd like a free browser-based option instead of hand-drawing, try [draw.io](https://www.drawio.com/) — no account required to get started.
 
-### Step 3 — Save and Embed Your Diagram
+### Step 3 — Upload and Embed Your Diagram
 
-Save your diagram as an image file in `assets/screenshots/week-02/` in your portfolio repo. Embed it below using a relative path — not an absolute path from your computer. See the CVI GitHub Handbook if you need a refresher on relative paths.
+This step happens directly on GitHub, not through this worksheet — there's no upload field here, since screenshots and diagrams are added through GitHub's own upload UI, the same way as every other week.
+
+1. Go to your portfolio repository on GitHub.com and navigate to `assets/screenshots/week-02/`.
+2. Click **Add file → Upload files**, then drag in your diagram image (name it something descriptive, like `hardware-os-software-diagram.png` — no spaces, lowercase, no timestamps).
+3. Commit the upload.
+4. Click on the uploaded image to open it, then click the **Raw** button. Copy the URL from your browser's address bar.
+5. After you submit this worksheet, it will be committed to your repo. Go back to GitHub, open the committed file, click the pencil (edit) icon, and paste your raw URL into the embed line below:
 
 ```markdown
-![Hardware/OS/software diagram](../../assets/screenshots/week-02/diagram.png)
+![Hardware/OS/software diagram](paste your raw image URL here)
 ```
 
-**My Diagram:**
-
-*(embed your diagram here)*
+**My Diagram** (added directly on GitHub after you submit):
 
 ### Step 4 — Explain Your Diagram
 
 In your own words — not a copied definition — explain how the three layers interact. Reference your own diagram directly.
 
+**Explanation (minimum 3 sentences):**
+
 ```
-(your explanation — minimum 3 sentences)
+(your explanation here — minimum 3 sentences)
 ```
 
 ---
@@ -138,16 +151,19 @@ Explain, in your own words, why a cybersecurity professional needs to understand
 Answer each question in complete sentences.
 
 **1. What is the cybersecurity landscape, and why does it matter to someone starting this course?**
+
 ```
 (your answer here)
 ```
 
 **2. Which CyberFoundations City district did you identify in Part A, and how does its theme connect to the hardware/OS/software material in Part B?**
+
 ```
 (your answer here)
 ```
 
 **3. Of the three layers (hardware, OS, software), which one do you think is hardest to secure, and why?**
+
 ```
 (your answer here)
 ```
@@ -156,11 +172,20 @@ Answer each question in complete sentences.
 
 ## Submission Checklist
 
-- [ ] Lab Portal Module 1 orientation completed
-- [ ] District identified and explained
-- [ ] Hardware, OS, and software layer examples listed
-- [ ] Diagram embedded using a relative path (not an absolute path from your computer)
+- [x] Lab Portal Module 1 orientation completed
+
+- [x] District identified and explained
+
+- [x] Hardware, OS, and software layer examples listed
+
+- [x] Diagram uploaded to `assets/screenshots/week-02/` via GitHub and embedded directly in the committed file
+
 - [ ] Diagram explanation written in your own words (minimum 3 sentences)
+
 - [ ] All three Analysis Questions answered (minimum sentence counts met)
+
 - [ ] All three Lab Report Questions answered in complete sentences
-- [ ] This file is committed to your portfolio repo at `week-02/labs/lab-01-hardware-os-software-diagram.md`
+
+---
+
+*CyberVisionaries Institute · Cyber Foundations · Tier I*
