@@ -2,7 +2,7 @@
 
 **Student Name:** Angela Ousley
 
-**Date Completed:**
+**Date Completed:** July 23, 2026
 
 **Module:** 1 — Digital Infrastructure & CLI | **Week:** 2  
 **Submission Path:** `week-02/labs/lab-01-hardware-os-software-diagram.md`
